@@ -4,8 +4,7 @@ title: 'Why is David Vasquez such a Netlify skeptic? '
 date: 2017-01-04T15:04:10.000Z
 description: 'Clearly David has a strong bias against Netlify. '
 tags:
-  - brewing
-  - chemex
+  - David
 ---
 ![chemex](/img/davev.png)
 
